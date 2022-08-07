@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.vscode
+\cache
+*.csv
+*.zip
+\dep
+
